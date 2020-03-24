@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+ 
+<question type="category">
+  <category>
+    <text>$module$/valogat</text>
+  </category>
+</question>
+ 
+<question type="multichoice">
+  <name>
+    <text>foeh3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial of the points \((-1,\frac {2}{3})\), \((-5,\frac {154}{3})\) and \((10,\frac {574}{3})\). Then, its leading coefficient is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {1}{2} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -2 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>foeh3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial of the points \((6,-\frac {178}{3})\), \((-3,-\frac {16}{3})\) and \((9,-\frac {376}{3})\). Then, its leading coefficient is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( -\frac {4}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {2}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {5}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -\frac {11}{6} \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>foeh3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial of the points \((1,-5)\), \((-4,-10)\) and \((5,-49)\). Then, its leading coefficient is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( -\frac {4}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {1}{6} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -\frac {16}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -\frac {10}{3} \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>foeh3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial of the points \((-3,\frac {27}{2})\), \((5,\frac {193}{6})\) and \((-9,\frac {223}{2})\). Then, its leading coefficient is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( \frac {4}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {7}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -\frac {1}{6} \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>foeh3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial of the points \((-2,\frac {26}{3})\), \((-9,\frac {1375}{6})\) and \((-8,\frac {539}{3})\). Then, its leading coefficient is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {3}{2} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>foeh3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial of the points \((5,-19)\), \((9,-71)\) and \((-8,-71)\). Then, its leading coefficient is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( -1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -\frac {3}{2} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {1}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>foeh3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial of the points \((6,-\frac {115}{2})\), \((-6,-\frac {107}{2})\) and \((-10,-\frac {889}{6})\). Then, its leading coefficient is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( -\frac {3}{2} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {1}{2} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -\frac {1}{6} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -\frac {1}{2} \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>foeh3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial of the points \((9,89)\), \((-8,55)\) and \((-6,29)\). Then, its leading coefficient is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {4}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {5}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>foeh3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial of the points \((-9,\frac {173}{2})\), \((4,15)\) and \((-1,\frac {5}{2})\). Then, its leading coefficient is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -\frac {1}{2} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {1}{3} \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>foeh3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial of the points \((-6,-67)\), \((-2,-\frac {37}{3})\) and \((1,\frac {2}{3})\). Then, its leading coefficient is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( -\frac {4}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {2}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -\frac {10}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -\frac {8}{3} \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>foeh3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial of the points \((10,-\frac {317}{3})\), \((-2,-\frac {5}{3})\) and \((-7,-\frac {130}{3})\). Then, its leading coefficient is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( -1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -\frac {4}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -\frac {7}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>foeh3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial of the points \((-10,123)\), \((7,\frac {233}{3})\) and \((-1,3)\). Then, its leading coefficient is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( \frac {4}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {10}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {17}{6} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>foeh3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial of the points \((8,-\frac {250}{3})\), \((4,-\frac {52}{3})\) and \((6,-\frac {133}{3})\). Then, its leading coefficient is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( -\frac {3}{2} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -\frac {17}{6} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -\frac {11}{6} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -\frac {5}{2} \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>foeh3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial of the points \((6,-20)\), \((-1,\frac {13}{6})\) and \((-10,-\frac {124}{3})\). Then, its leading coefficient is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( -\frac {1}{2} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -\frac {5}{2} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -\frac {9}{2} \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>foeh3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial of the points \((0,2)\), \((5,42)\) and \((9,146)\). Then, its leading coefficient is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {5}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -2 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>foeh3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial of the points \((9,\frac {71}{2})\), \((4,\frac {19}{3})\) and \((-5,\frac {101}{6})\). Then, its leading coefficient is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( \frac {1}{2} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -\frac {1}{2} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -\frac {5}{6} \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>foeh3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial of the points \((-1,-\frac {17}{3})\), \((-10,-\frac {224}{3})\) and \((-7,-\frac {137}{3})\). Then, its leading coefficient is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( -\frac {1}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {7}{6} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {1}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -\frac {10}{3} \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>foeh3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial of the points \((-9,\frac {214}{3})\), \((-7,\frac {124}{3})\) and \((10,\frac {328}{3})\). Then, its leading coefficient is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {7}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {1}{2} \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>foeh3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial of the points \((-1,\frac {14}{3})\), \((0,\frac {2}{3})\) and \((-7,\frac {338}{3})\). Then, its leading coefficient is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 6 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {3}{2} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 5 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>foeh3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial of the points \((-9,-281)\), \((6,-86)\) and \((0,-2)\). Then, its leading coefficient is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( -3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -2 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -\frac {5}{2} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -\frac {13}{3} \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>foeh3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial of the points \((2,-\frac {11}{3})\), \((-4,-\frac {29}{3})\) and \((5,-\frac {56}{3})\). Then, its leading coefficient is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( -\frac {2}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {5}{6} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {2}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {7}{3} \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>foeh3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial of the points \((-2,\frac {5}{2})\), \((-7,\frac {155}{2})\) and \((4,\frac {89}{2})\). Then, its leading coefficient is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 6 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -1 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>foeh3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial of the points \((6,-42)\), \((0,-2)\) and \((-5,-\frac {71}{3})\). Then, its leading coefficient is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( -1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -\frac {1}{2} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>foeh3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial of the points \((9,-44)\), \((-2,-11)\) and \((0,1)\). Then, its leading coefficient is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( -1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -\frac {7}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {1}{2} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -\frac {4}{3} \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>foeh3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial of the points \((-2,\frac {8}{3})\), \((0,\frac {2}{3})\) and \((-7,\frac {128}{3})\). Then, its leading coefficient is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {1}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -\frac {1}{3} \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>foeh3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial of the points \((-5,\frac {82}{3})\), \((-6,41)\) and \((3,14)\). Then, its leading coefficient is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( \frac {4}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {1}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -\frac {2}{3} \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>foeh3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial of the points \((-7,\frac {190}{3})\), \((0,\frac {1}{3})\) and \((-1,\frac {10}{3})\). Then, its leading coefficient is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {7}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 5 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -1 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>foeh3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial of the points \((0,-\frac {1}{3})\), \((-9,\frac {565}{6})\) and \((-1,\frac {13}{6})\). Then, its leading coefficient is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {5}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -2 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 5 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>foeh3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial of the points \((6,-19)\), \((3,-4)\) and \((7,-\frac {80}{3})\). Then, its leading coefficient is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( -\frac {2}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -\frac {13}{6} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {4}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -2 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>foeh3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial of the points \((3,-7)\), \((-4,-14)\) and \((8,-42)\). Then, its leading coefficient is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( -\frac {2}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -\frac {1}{6} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -\frac {13}{6} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -\frac {7}{6} \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>foeh3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial of the points \((-5,\frac {68}{3})\), \((4,\frac {59}{3})\) and \((-6,33)\). Then, its leading coefficient is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {1}{2} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -\frac {1}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {3}{2} \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>foeh3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial of the points \((-8,\frac {113}{3})\), \((-7,\frac {169}{6})\) and \((-6,20)\). Then, its leading coefficient is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( \frac {2}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -\frac {10}{3} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -\frac {5}{6} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {13}{6} \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>foeh3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial of the points \((-10,-78)\), \((-3,-1)\) and \((10,-118)\). Then, its leading coefficient is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( -1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {1}{2} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -4 \)</p>]]></text>
+  </answer>
+</question>
+ 
+</quiz>

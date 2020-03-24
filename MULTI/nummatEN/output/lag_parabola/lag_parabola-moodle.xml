@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+ 
+<question type="category">
+  <category>
+    <text>$module$/valogat</text>
+  </category>
+</question>
+ 
+<question type="multichoice">
+  <name>
+    <text>parabola</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>If \(L\) is the quadratic function that interpolates the points \((0,1),\ (-6,91)\) and \((-5,66)\), then its value at \(8\) is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 105 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 104 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 109 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 101 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>parabola</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>If \(L\) is the quadratic function that interpolates the points \((5,81),\ (3,31)\) and \((-7,141)\), then its value at \(8\) is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 201 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 202 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 203 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 204 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>parabola</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>If \(L\) is the quadratic function that interpolates the points \((2,15),\ (-3,15)\) and \((-1,-3)\), then its value at \(3\) is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 33 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 34 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 37 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 32 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>parabola</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>If \(L\) is the quadratic function that interpolates the points \((2,-18),\ (7,-193)\) and \((0,-4)\), then its value at \(10\) is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( -394 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -393 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -391 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -395 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>parabola</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>If \(L\) is the quadratic function that interpolates the points \((2,-16),\ (-4,-28)\) and \((-8,-116)\), then its value at \(4\) is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( -44 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -42 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -48 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -40 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>parabola</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>If \(L\) is the quadratic function that interpolates the points \((-8,139),\ (-2,13)\) and \((-4,39)\), then its value at \(8\) is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 123 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 122 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 121 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 119 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>parabola</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>If \(L\) is the quadratic function that interpolates the points \((-4,-59),\ (-7,-185)\) and \((1,-9)\), then its value at \(-8\) is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( -243 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -239 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -247 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -246 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>parabola</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>If \(L\) is the quadratic function that interpolates the points \((-3,-23),\ (3,-35)\) and \((-9,-227)\), then its value at \(-6\) is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( -98 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -96 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -97 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -95 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>parabola</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>If \(L\) is the quadratic function that interpolates the points \((-5,-59),\ (-8,-140)\) and \((-6,-82)\), then its value at \(-10\) is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( -214 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -210 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -217 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -212 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>parabola</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>If \(L\) is the quadratic function that interpolates the points \((10,-337),\ (5,-92)\) and \((7,-172)\), then its value at \(-1\) is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>parabola</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>If \(L\) is the quadratic function that interpolates the points \((7,171),\ (5,83)\) and \((4,51)\), then its value at \(1\) is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 7 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 5 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>parabola</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>If \(L\) is the quadratic function that interpolates the points \((0,3),\ (7,73)\) and \((2,13)\), then its value at \(6\) is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 57 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 56 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 53 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 60 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>parabola</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>If \(L\) is the quadratic function that interpolates the points \((9,52),\ (6,16)\) and \((-7,68)\), then its value at \(-6\) is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 52 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 55 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 50 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 48 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>parabola</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>If \(L\) is the quadratic function that interpolates the points \((-3,-24),\ (0,-3)\) and \((10,-63)\), then its value at \(8\) is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( -35 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -37 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -38 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -33 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>parabola</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>If \(L\) is the quadratic function that interpolates the points \((3,-9),\ (-10,-217)\) and \((-9,-177)\), then its value at \(10\) is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( -177 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -173 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -174 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -176 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>parabola</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>If \(L\) is the quadratic function that interpolates the points \((10,422),\ (2,22)\) and \((-2,14)\), then its value at \(5\) is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 112 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 110 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 111 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 108 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>parabola</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>If \(L\) is the quadratic function that interpolates the points \((10,361),\ (6,121)\) and \((5,81)\), then its value at \(-6\) is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 169 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 168 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 170 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 166 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>parabola</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>If \(L\) is the quadratic function that interpolates the points \((-1,7),\ (-4,58)\) and \((6,98)\), then its value at \(-7\) is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 163 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 160 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 166 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 164 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>parabola</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>If \(L\) is the quadratic function that interpolates the points \((6,-58),\ (-4,-48)\) and \((1,-3)\), then its value at \(-7\) is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( -123 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -122 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -127 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -126 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>parabola</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>If \(L\) is the quadratic function that interpolates the points \((4,31),\ (-5,13)\) and \((-6,21)\), then its value at \(1\) is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 7 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 8 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>parabola</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>If \(L\) is the quadratic function that interpolates the points \((-1,7),\ (-3,21)\) and \((10,73)\), then its value at \(-10\) is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 133 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 129 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 135 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 131 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>parabola</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>If \(L\) is the quadratic function that interpolates the points \((5,-68),\ (9,-192)\) and \((1,-8)\), then its value at \(10\) is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( -233 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -230 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -237 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -235 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>parabola</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>If \(L\) is the quadratic function that interpolates the points \((3,10),\ (6,40)\) and \((8,70)\), then its value at \(-4\) is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 10 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 11 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 14 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 6 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>parabola</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>If \(L\) is the quadratic function that interpolates the points \((-3,11),\ (8,44)\) and \((9,59)\), then its value at \(4\) is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 5 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>parabola</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>If \(L\) is the quadratic function that interpolates the points \((1,-8),\ (-4,-43)\) and \((-2,-11)\), then its value at \(6\) is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( -123 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -121 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -127 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -124 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>parabola</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>If \(L\) is the quadratic function that interpolates the points \((-1,5),\ (-4,29)\) and \((10,71)\), then its value at \(6\) is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 19 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 20 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 22 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 17 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>parabola</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>If \(L\) is the quadratic function that interpolates the points \((0,-1),\ (7,-113)\) and \((-2,-5)\), then its value at \(-10\) is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( -181 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -185 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -184 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -178 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>parabola</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>If \(L\) is the quadratic function that interpolates the points \((6,88),\ (-8,116)\) and \((-5,44)\), then its value at \(1\) is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 8 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 11 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 6 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 12 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>parabola</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>If \(L\) is the quadratic function that interpolates the points \((3,27),\ (-7,227)\) and \((-4,83)\), then its value at \(-10\) is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 443 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 447 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 439 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 440 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>parabola</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>If \(L\) is the quadratic function that interpolates the points \((8,-75),\ (-7,-45)\) and \((-9,-75)\), then its value at \(7\) is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( -59 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -60 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -61 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -57 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>parabola</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>If \(L\) is the quadratic function that interpolates the points \((7,-76),\ (9,-116)\) and \((0,1)\), then its value at \(10\) is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( -139 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -143 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -142 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -138 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>parabola</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>If \(L\) is the quadratic function that interpolates the points \((-9,188),\ (8,103)\) and \((-8,151)\), then its value at \(-2\) is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 13 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 9 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 14 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 12 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>parabola</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>If \(L\) is the quadratic function that interpolates the points \((-1,0),\ (10,-242)\) and \((-9,-128)\), then its value at \(-8\) is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( -98 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -96 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -95 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -94 \)</p>]]></text>
+  </answer>
+</question>
+ 
+</quiz>

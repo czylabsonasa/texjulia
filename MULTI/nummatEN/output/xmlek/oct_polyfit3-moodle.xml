@@ -1,0 +1,1100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+ 
+<question type="category">
+  <category>
+    <text>$module$/valogat</text>
+  </category>
+</question>
+ 
+<question type="multichoice">
+  <name>
+    <text>polyfit3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>For the \(4\) element vectors T and F, we issue the command P=\(\mathrm {polyfit}(T,F,3)\). Choose the true statement(s)! </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P only approximates the points</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>the degree of P at most 3</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P fits exactly points</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is exactly 3</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is at least 3</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>P is always the minimal degree interpolational polynomial</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>For the \(6\) element vectors T and F, we issue the command P=\(\mathrm {polyfit}(T,F,5)\). Choose the true statement(s)! </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P only approximates the points</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>the degree of P at most 5</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P fits exactly points</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is exactly 5</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is at least 5</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>P is always the minimal degree interpolational polynomial</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>For the \(7\) element vectors T and F, we issue the command P=\(\mathrm {polyfit}(T,F,6)\). Choose the true statement(s)! </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P only approximates the points</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>the degree of P at most 6</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P fits exactly points</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is exactly 6</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is at least 6</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>P is always the minimal degree interpolational polynomial</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>For the \(8\) element vectors T and F, we issue the command P=\(\mathrm {polyfit}(T,F,7)\). Choose the true statement(s)! </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P only approximates the points</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>the degree of P at most 7</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P fits exactly points</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is exactly 7</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is at least 7</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>P is always the minimal degree interpolational polynomial</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>For the \(9\) element vectors T and F, we issue the command P=\(\mathrm {polyfit}(T,F,8)\). Choose the true statement(s)! </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P only approximates the points</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>the degree of P at most 8</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P fits exactly points</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is exactly 8</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is at least 8</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>P is always the minimal degree interpolational polynomial</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>For the \(5\) element vectors T and F, we issue the command P=\(\mathrm {polyfit}(T,F,4)\). Choose the true statement(s)! </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P only approximates the points</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>the degree of P at most 4</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P fits exactly points</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is exactly 4</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is at least 4</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>P is always the minimal degree interpolational polynomial</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>For the \(8\) element vectors T and F, we issue the command P=\(\mathrm {polyfit}(T,F,7)\). Choose the true statement(s)! </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P only approximates the points</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>the degree of P at most 7</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P fits exactly points</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is exactly 7</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is at least 7</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>P is always the minimal degree interpolational polynomial</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>For the \(8\) element vectors T and F, we issue the command P=\(\mathrm {polyfit}(T,F,7)\). Choose the true statement(s)! </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P only approximates the points</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>the degree of P at most 7</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P fits exactly points</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is exactly 7</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is at least 7</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>P is always the minimal degree interpolational polynomial</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>For the \(5\) element vectors T and F, we issue the command P=\(\mathrm {polyfit}(T,F,4)\). Choose the true statement(s)! </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P only approximates the points</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>the degree of P at most 4</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P fits exactly points</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is exactly 4</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is at least 4</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>P is always the minimal degree interpolational polynomial</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>For the \(10\) element vectors T and F, we issue the command P=\(\mathrm {polyfit}(T,F,9)\). Choose the true statement(s)! </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P only approximates the points</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>the degree of P at most 9</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P fits exactly points</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is exactly 9</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is at least 9</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>P is always the minimal degree interpolational polynomial</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>For the \(4\) element vectors T and F, we issue the command P=\(\mathrm {polyfit}(T,F,3)\). Choose the true statement(s)! </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P only approximates the points</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>the degree of P at most 3</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P fits exactly points</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is exactly 3</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is at least 3</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>P is always the minimal degree interpolational polynomial</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>For the \(9\) element vectors T and F, we issue the command P=\(\mathrm {polyfit}(T,F,8)\). Choose the true statement(s)! </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P only approximates the points</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>the degree of P at most 8</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P fits exactly points</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is exactly 8</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is at least 8</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>P is always the minimal degree interpolational polynomial</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>For the \(3\) element vectors T and F, we issue the command P=\(\mathrm {polyfit}(T,F,2)\). Choose the true statement(s)! </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P only approximates the points</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>the degree of P at most 2</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P fits exactly points</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is exactly 2</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is at least 2</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>P is always the minimal degree interpolational polynomial</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>For the \(10\) element vectors T and F, we issue the command P=\(\mathrm {polyfit}(T,F,9)\). Choose the true statement(s)! </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P only approximates the points</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>the degree of P at most 9</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P fits exactly points</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is exactly 9</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is at least 9</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>P is always the minimal degree interpolational polynomial</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>For the \(9\) element vectors T and F, we issue the command P=\(\mathrm {polyfit}(T,F,8)\). Choose the true statement(s)! </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P only approximates the points</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>the degree of P at most 8</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P fits exactly points</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is exactly 8</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is at least 8</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>P is always the minimal degree interpolational polynomial</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>For the \(5\) element vectors T and F, we issue the command P=\(\mathrm {polyfit}(T,F,4)\). Choose the true statement(s)! </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P only approximates the points</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>the degree of P at most 4</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P fits exactly points</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is exactly 4</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is at least 4</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>P is always the minimal degree interpolational polynomial</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>For the \(9\) element vectors T and F, we issue the command P=\(\mathrm {polyfit}(T,F,8)\). Choose the true statement(s)! </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P only approximates the points</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>the degree of P at most 8</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P fits exactly points</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is exactly 8</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is at least 8</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>P is always the minimal degree interpolational polynomial</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>For the \(9\) element vectors T and F, we issue the command P=\(\mathrm {polyfit}(T,F,8)\). Choose the true statement(s)! </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P only approximates the points</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>the degree of P at most 8</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P fits exactly points</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is exactly 8</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is at least 8</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>P is always the minimal degree interpolational polynomial</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>For the \(5\) element vectors T and F, we issue the command P=\(\mathrm {polyfit}(T,F,4)\). Choose the true statement(s)! </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P only approximates the points</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>the degree of P at most 4</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P fits exactly points</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is exactly 4</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is at least 4</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>P is always the minimal degree interpolational polynomial</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>For the \(8\) element vectors T and F, we issue the command P=\(\mathrm {polyfit}(T,F,7)\). Choose the true statement(s)! </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P only approximates the points</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>the degree of P at most 7</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P fits exactly points</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is exactly 7</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is at least 7</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>P is always the minimal degree interpolational polynomial</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>For the \(5\) element vectors T and F, we issue the command P=\(\mathrm {polyfit}(T,F,4)\). Choose the true statement(s)! </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P only approximates the points</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>the degree of P at most 4</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P fits exactly points</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is exactly 4</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is at least 4</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>P is always the minimal degree interpolational polynomial</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>For the \(3\) element vectors T and F, we issue the command P=\(\mathrm {polyfit}(T,F,2)\). Choose the true statement(s)! </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P only approximates the points</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>the degree of P at most 2</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P fits exactly points</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is exactly 2</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is at least 2</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>P is always the minimal degree interpolational polynomial</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>For the \(3\) element vectors T and F, we issue the command P=\(\mathrm {polyfit}(T,F,2)\). Choose the true statement(s)! </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P only approximates the points</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>the degree of P at most 2</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P fits exactly points</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is exactly 2</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is at least 2</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>P is always the minimal degree interpolational polynomial</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>For the \(6\) element vectors T and F, we issue the command P=\(\mathrm {polyfit}(T,F,5)\). Choose the true statement(s)! </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P only approximates the points</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>the degree of P at most 5</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P fits exactly points</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is exactly 5</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is at least 5</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>P is always the minimal degree interpolational polynomial</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>For the \(8\) element vectors T and F, we issue the command P=\(\mathrm {polyfit}(T,F,7)\). Choose the true statement(s)! </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P only approximates the points</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>the degree of P at most 7</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P fits exactly points</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is exactly 7</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is at least 7</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>P is always the minimal degree interpolational polynomial</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>For the \(8\) element vectors T and F, we issue the command P=\(\mathrm {polyfit}(T,F,7)\). Choose the true statement(s)! </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P only approximates the points</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>the degree of P at most 7</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P fits exactly points</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is exactly 7</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is at least 7</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>P is always the minimal degree interpolational polynomial</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>For the \(3\) element vectors T and F, we issue the command P=\(\mathrm {polyfit}(T,F,2)\). Choose the true statement(s)! </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P only approximates the points</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>the degree of P at most 2</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P fits exactly points</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is exactly 2</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is at least 2</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>P is always the minimal degree interpolational polynomial</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>For the \(5\) element vectors T and F, we issue the command P=\(\mathrm {polyfit}(T,F,4)\). Choose the true statement(s)! </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P only approximates the points</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>the degree of P at most 4</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P fits exactly points</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is exactly 4</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is at least 4</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>P is always the minimal degree interpolational polynomial</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>For the \(3\) element vectors T and F, we issue the command P=\(\mathrm {polyfit}(T,F,2)\). Choose the true statement(s)! </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P only approximates the points</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>the degree of P at most 2</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P fits exactly points</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is exactly 2</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is at least 2</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>P is always the minimal degree interpolational polynomial</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>For the \(8\) element vectors T and F, we issue the command P=\(\mathrm {polyfit}(T,F,7)\). Choose the true statement(s)! </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P only approximates the points</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>the degree of P at most 7</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P fits exactly points</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is exactly 7</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is at least 7</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>P is always the minimal degree interpolational polynomial</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>For the \(6\) element vectors T and F, we issue the command P=\(\mathrm {polyfit}(T,F,5)\). Choose the true statement(s)! </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P only approximates the points</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>the degree of P at most 5</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P fits exactly points</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is exactly 5</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is at least 5</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>P is always the minimal degree interpolational polynomial</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>For the \(3\) element vectors T and F, we issue the command P=\(\mathrm {polyfit}(T,F,2)\). Choose the true statement(s)! </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P only approximates the points</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>the degree of P at most 2</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P fits exactly points</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is exactly 2</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is at least 2</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>P is always the minimal degree interpolational polynomial</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>For the \(4\) element vectors T and F, we issue the command P=\(\mathrm {polyfit}(T,F,3)\). Choose the true statement(s)! </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P only approximates the points</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>the degree of P at most 3</p>]]></text>
+  </answer>
+  <answer fraction="33.33333" format="html">
+    <text><![CDATA[<p>it is possible, that P fits exactly points</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is exactly 3</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>the degree of P is at least 3</p>]]></text>
+  </answer>
+  <answer fraction="-33.33333" format="html">
+    <text><![CDATA[<p>P is always the minimal degree interpolational polynomial</p>]]></text>
+  </answer>
+</question>
+ 
+</quiz>

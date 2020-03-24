@@ -1,0 +1,1 @@
+moodle tesztek generalasa juliaval

@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+ 
+<question type="category">
+  <category>
+    <text>$module$/valogat</text>
+  </category>
+</question>
+ 
+<question type="multichoice">
+  <name>
+    <text>fokszam</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial for the data: <CENTER>\[\begin {array}{l ||c|c|c|c|c}t&9&-6&-5&-7&-10\\ \hline f&876&-129&-62&-228&-777 \\ \end {array}\]</CENTER> Its degree is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 5 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>fokszam</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial for the data: <CENTER>\[\begin {array}{l ||c|c|c|c|c|c}t&2&-2&6&-1&1&-10\\ \hline f&-15&25&-375&3&-5&2217 \\ \end {array}\]</CENTER> Its degree is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>fokszam</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial for the data: <CENTER>\[\begin {array}{l ||c|c|c|c}t&-5&-8&-3&10\\ \hline f&-443&-1715&-105&2677 \\ \end {array}\]</CENTER> Its degree is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 5 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>fokszam</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial for the data: <CENTER>\[\begin {array}{l ||c|c|c|c|c}t&3&-6&-4&-1&-9\\ \hline f&-26&-53&-19&2&-134 \\ \end {array}\]</CENTER> Its degree is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>fokszam</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial for the data: <CENTER>\[\begin {array}{l ||c|c|c|c}t&-5&9&-3&1\\ \hline f&-156&656&-40&0 \\ \end {array}\]</CENTER> Its degree is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 5 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>fokszam</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial for the data: <CENTER>\[\begin {array}{l ||c|c|c|c|c}t&10&-7&-5&0&7\\ \hline f&-1313&200&52&-3&-500 \\ \end {array}\]</CENTER> Its degree is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 5 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>fokszam</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial for the data: <CENTER>\[\begin {array}{l ||c|c|c|c}t&-2&10&0&7\\ \hline f&-14&3178&-2&1111 \\ \end {array}\]</CENTER> Its degree is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 5 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>fokszam</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial for the data: <CENTER>\[\begin {array}{l ||c|c|c|c|c}t&8&-1&6&-8&2\\ \hline f&1478&-7&616&-1610&20 \\ \end {array}\]</CENTER> Its degree is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 5 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>fokszam</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial for the data: <CENTER>\[\begin {array}{l ||c|c|c|c|c}t&5&-10&-1&-3&2\\ \hline f&366&-3129&-6&-98&27 \\ \end {array}\]</CENTER> Its degree is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 5 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>fokszam</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial for the data: <CENTER>\[\begin {array}{l ||c|c|c|c}t&1&10&3&-4\\ \hline f&-9&-3123&-99&181 \\ \end {array}\]</CENTER> Its degree is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 5 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>fokszam</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial for the data: <CENTER>\[\begin {array}{l ||c|c}t&-6&-10\\ \hline f&15&23 \\ \end {array}\]</CENTER> Its degree is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>fokszam</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial for the data: <CENTER>\[\begin {array}{l ||c|c|c}t&7&-5&1\\ \hline f&17&-7&5 \\ \end {array}\]</CENTER> Its degree is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 5 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>fokszam</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial for the data: <CENTER>\[\begin {array}{l ||c|c|c|c}t&-10&-7&6&9\\ \hline f&12&9&-4&-7 \\ \end {array}\]</CENTER> Its degree is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 5 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>fokszam</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial for the data: <CENTER>\[\begin {array}{l ||c|c}t&-4&-5\\ \hline f&6&7 \\ \end {array}\]</CENTER> Its degree is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 5 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>fokszam</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial for the data: <CENTER>\[\begin {array}{l ||c|c|c|c}t&4&1&7&6\\ \hline f&43&1&139&101 \\ \end {array}\]</CENTER> Its degree is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>fokszam</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial for the data: <CENTER>\[\begin {array}{l ||c|c|c}t&6&-6&-9\\ \hline f&-11&13&19 \\ \end {array}\]</CENTER> Its degree is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>fokszam</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial for the data: <CENTER>\[\begin {array}{l ||c|c|c|c|c|c}t&0&-7&1&-8&-5&-4\\ \hline f&1&1121&1&1657&421&221 \\ \end {array}\]</CENTER> Its degree is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>fokszam</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial for the data: <CENTER>\[\begin {array}{l ||c|c|c|c|c}t&-9&-6&-4&3&9\\ \hline f&173&80&38&17&155 \\ \end {array}\]</CENTER> Its degree is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>fokszam</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial for the data: <CENTER>\[\begin {array}{l ||c|c|c|c}t&-5&-9&-4&7\\ \hline f&-12&-60&-5&-60 \\ \end {array}\]</CENTER> Its degree is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>fokszam</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial for the data: <CENTER>\[\begin {array}{l ||c|c|c|c|c}t&6&5&-6&-5&2\\ \hline f&-379&-211&449&259&-7 \\ \end {array}\]</CENTER> Its degree is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>fokszam</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial for the data: <CENTER>\[\begin {array}{l ||c|c|c|c|c}t&-2&-3&1&7&8\\ \hline f&6&31&-9&-849&-1234 \\ \end {array}\]</CENTER> Its degree is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>fokszam</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial for the data: <CENTER>\[\begin {array}{l ||c|c|c|c|c}t&6&2&-2&7&5\\ \hline f&-57&-13&-1&-73&-43 \\ \end {array}\]</CENTER> Its degree is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>fokszam</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial for the data: <CENTER>\[\begin {array}{l ||c|c|c}t&6&1&-2\\ \hline f&76&1&4 \\ \end {array}\]</CENTER> Its degree is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>fokszam</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial for the data: <CENTER>\[\begin {array}{l ||c|c|c|c}t&-1&-3&9&2\\ \hline f&0&14&170&9 \\ \end {array}\]</CENTER> Its degree is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>fokszam</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial for the data: <CENTER>\[\begin {array}{l ||c|c|c}t&1&4&0\\ \hline f&4&7&3 \\ \end {array}\]</CENTER> Its degree is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 5 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>fokszam</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial for the data: <CENTER>\[\begin {array}{l ||c|c|c|c|c}t&-10&-4&-5&6&5\\ \hline f&1869&99&209&-451&-261 \\ \end {array}\]</CENTER> Its degree is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 5 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>fokszam</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial for the data: <CENTER>\[\begin {array}{l ||c|c}t&-2&5\\ \hline f&-1&6 \\ \end {array}\]</CENTER> Its degree is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 5 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>fokszam</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial for the data: <CENTER>\[\begin {array}{l ||c|c|c|c}t&-10&-5&9&-3\\ \hline f&-1269&-184&460&-44 \\ \end {array}\]</CENTER> Its degree is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 5 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>fokszam</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial for the data: <CENTER>\[\begin {array}{l ||c|c|c|c}t&-5&-1&-7&9\\ \hline f&13&1&31&111 \\ \end {array}\]</CENTER> Its degree is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>fokszam</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial for the data: <CENTER>\[\begin {array}{l ||c|c|c|c}t&5&1&-3&-4\\ \hline f&-11&-3&5&7 \\ \end {array}\]</CENTER> Its degree is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>fokszam</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial for the data: <CENTER>\[\begin {array}{l ||c|c|c|c|c}t&-10&0&-3&-7&1\\ \hline f&193&3&18&94&6 \\ \end {array}\]</CENTER> Its degree is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>fokszam</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial for the data: <CENTER>\[\begin {array}{l ||c|c|c|c|c}t&4&-10&-9&-6&-1\\ \hline f&42&182&146&62&2 \\ \end {array}\]</CENTER> Its degree is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>fokszam</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Consider the Lagrange interpolational polynomial for the data: <CENTER>\[\begin {array}{l ||c|c|c}t&0&-6&-2\\ \hline f&2&20&8 \\ \end {array}\]</CENTER> Its degree is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( 1 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 3 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 4 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 2 \)</p>]]></text>
+  </answer>
+</question>
+ 
+</quiz>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+ 
+<question type="category">
+  <category>
+    <text>$module$/valogat</text>
+  </category>
+</question>
+ 
+<question type="multichoice">
+  <name>
+    <text>horner1</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p></P><P>Using Horners tabular method, we compute \(P(-3)\) for the polynomial <CENTER>\[P(x)=x^4-2x^3+4x^2-2\]</CENTER> Then, the value under the degree \(1\) term is: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( -57 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -56 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -58 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( -59 \)</p>]]></text>
+  </answer>
+</question>
+ 
+</quiz>

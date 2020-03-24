@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+ 
+<question type="category">
+  <category>
+    <text>$module$/valogat1</text>
+  </category>
+</question>
+ 
+<question type="multichoice">
+  <name>
+    <text>botmax</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Egy \( 6 \) méter hosszú cérnát egy ollóval véletlenszerűen elvágunk. Legyen \( Y \) a keletkezett részek hosszának maximuma. Ekkor \( Y \) eloszlásfüggvénye: (ami a jelzett intervallumtól jobbra 1, balra pedig 0 értéket vesz fel) </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( F(x)=\frac {x-3}{3},\:\: 3&lt;x&lt;6 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( F(x)=\frac {x}{3},\:\: 3&lt;x&lt;6 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( F(x)=\frac {x-3}{6},\:\: 0&lt;x&lt;6 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( F(x)=\frac {x}{6},\:\: 0&lt;x&lt;6 \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>botmaxvarhato</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Egy \( 10 \) méter hosszú cérnát egy ollóval véletlenszerűen elvágunk. Legyen \( Y \) a keletkezett részek hosszának maximuma. Ekkor az \( Y \) várható értéke: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( \frac {15}{2} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 5 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( 10 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {5}{4} \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>cernaminvarhato</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Egy \( 10 \) méter hosszú cérnát egy ollóval véletlenszerűen elvágunk. Legyen \( Y \) a keletkezett részek hosszának minimuma. Ekkor \(\mathrm {E}(Y)=\) </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( \frac {5}{2} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {12}{5} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {27}{10} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {29}{10} \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>cernaminval</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Egy \( 9 \) méter hosszú cérnát egy ollóval véletlenszerűen elvágunk. Legyen \( Y \) a keletkezett részek hosszának minimuma. Ekkor \( \mathrm {P}(\frac {1}{20}&lt;Y&lt;\frac {3}{5}) \)= </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( \frac {11}{90} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {7}{30} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {31}{90} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {17}{30} \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>botmaxval</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Egy \( 8 \) méter hosszú botot egy fűrésszel elvágunk egy véletlenszerűen választtott helyen. Legyen \( Y \) a keletkezett részek hosszának maximuma. Ekkor \( \mathrm {P}(5&lt;Y&lt;7) \)= </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( \frac {1}{2} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {1}{4} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {1}{8} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {3}{4} \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>cernamineo</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Egy \( 8 \) méter hosszú cérnát egy ollóval véletlenszerűen elvágunk. Legyen \( Y \) a keletkezett részek hosszának minimuma. Ekkor \( Y \) eloszlásfüggvényének nem-konstans része: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( \frac {x}{4},\:\: 0&lt;x&lt;4 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {x-8}{4},\:\: 4&lt;x&lt;8 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {x}{8},\:\: 0&lt;x&lt;8 \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \frac {x-8}{8},\:\: 0&lt;x&lt;4 \)</p>]]></text>
+  </answer>
+</question>
+ 
+</quiz>
