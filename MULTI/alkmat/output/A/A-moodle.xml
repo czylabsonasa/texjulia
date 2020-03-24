@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+ 
+<question type="category">
+  <category>
+    <text>$module$/interpol</text>
+  </category>
+</question>
+ 
+<question type="multichoice">
+  <name>
+    <text>polyfit2</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Konkrét T és F vektorok megadása után kiadjuk a p=\(\mathrm {polyfit}(T,F,2)\) parancsot, melynek eredményeként a \(p=\left [\frac {1}{2},1,-\frac {2}{5}\right ]\) vektort kapjuk. Ekkor a következő állítások igazak: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(\frac {1}{2}x^2+x-\frac {2}{5}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legfeljebb 3 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-\frac {2}{5}x^2+x+\frac {1}{2}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F pontosan 2 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legalább 3 elemű vektorok</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit2</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Konkrét T és F vektorok megadása után kiadjuk a p=\(\mathrm {polyfit}(T,F,4)\) parancsot, melynek eredményeként a \(p=\left [-\frac {1}{3},\frac {4}{3},2,\frac {3}{5},-\frac {2}{5}\right ]\) vektort kapjuk. Ekkor a következő állítások igazak: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-\frac {1}{3}x^4+\frac {4}{3}x^3+2x^2+\frac {3}{5}x-\frac {2}{5}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legfeljebb 5 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-\frac {2}{5}x^4+\frac {3}{5}x^3+2x^2+\frac {4}{3}x-\frac {1}{3}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F pontosan 4 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legalább 5 elemű vektorok</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit2</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Konkrét T és F vektorok megadása után kiadjuk a p=\(\mathrm {polyfit}(T,F,3)\) parancsot, melynek eredményeként a \(p=\left [-1,\frac {4}{5},-\frac {4}{3},-\frac {1}{3}\right ]\) vektort kapjuk. Ekkor a következő állítások igazak: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-x^3+\frac {4}{5}x^2-\frac {4}{3}x-\frac {1}{3}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legfeljebb 4 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-\frac {1}{3}x^3-\frac {4}{3}x^2+\frac {4}{5}x-1\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F pontosan 3 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legalább 4 elemű vektorok</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit2</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Konkrét T és F vektorok megadása után kiadjuk a p=\(\mathrm {polyfit}(T,F,2)\) parancsot, melynek eredményeként a \(p=\left [\frac {3}{5},1,-2\right ]\) vektort kapjuk. Ekkor a következő állítások igazak: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(\frac {3}{5}x^2+x-2\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legfeljebb 3 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-2x^2+x+\frac {3}{5}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F pontosan 2 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legalább 3 elemű vektorok</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit2</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Konkrét T és F vektorok megadása után kiadjuk a p=\(\mathrm {polyfit}(T,F,4)\) parancsot, melynek eredményeként a \(p=\left [-2,-\frac {1}{3},\frac {1}{2},-\frac {2}{3},-3\right ]\) vektort kapjuk. Ekkor a következő állítások igazak: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-2x^4-\frac {1}{3}x^3+\frac {1}{2}x^2-\frac {2}{3}x-3\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legfeljebb 5 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-3x^4-\frac {2}{3}x^3+\frac {1}{2}x^2-\frac {1}{3}x-2\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F pontosan 4 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legalább 5 elemű vektorok</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit2</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Konkrét T és F vektorok megadása után kiadjuk a p=\(\mathrm {polyfit}(T,F,2)\) parancsot, melynek eredményeként a \(p=\left [-3,\frac {3}{5},1\right ]\) vektort kapjuk. Ekkor a következő állítások igazak: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-3x^2+\frac {3}{5}x+1\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legfeljebb 3 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(x^2+\frac {3}{5}x-3\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F pontosan 2 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legalább 3 elemű vektorok</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit2</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Konkrét T és F vektorok megadása után kiadjuk a p=\(\mathrm {polyfit}(T,F,4)\) parancsot, melynek eredményeként a \(p=\left [-3,-4,-\frac {2}{5},\frac {3}{5},\frac {1}{2}\right ]\) vektort kapjuk. Ekkor a következő állítások igazak: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-3x^4-4x^3-\frac {2}{5}x^2+\frac {3}{5}x+\frac {1}{2}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legfeljebb 5 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(\frac {1}{2}x^4+\frac {3}{5}x^3-\frac {2}{5}x^2-4x-3\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F pontosan 4 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legalább 5 elemű vektorok</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit2</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Konkrét T és F vektorok megadása után kiadjuk a p=\(\mathrm {polyfit}(T,F,4)\) parancsot, melynek eredményeként a \(p=\left [4,\frac {4}{5},-\frac {1}{2},-4,-\frac {3}{5}\right ]\) vektort kapjuk. Ekkor a következő állítások igazak: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(4x^4+\frac {4}{5}x^3-\frac {1}{2}x^2-4x-\frac {3}{5}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legfeljebb 5 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-\frac {3}{5}x^4-4x^3-\frac {1}{2}x^2+\frac {4}{5}x+4\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F pontosan 4 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legalább 5 elemű vektorok</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit2</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Konkrét T és F vektorok megadása után kiadjuk a p=\(\mathrm {polyfit}(T,F,2)\) parancsot, melynek eredményeként a \(p=\left [1,1,-2\right ]\) vektort kapjuk. Ekkor a következő állítások igazak: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(x^2+x-2\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legfeljebb 3 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-2x^2+x+1\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F pontosan 2 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legalább 3 elemű vektorok</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit2</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Konkrét T és F vektorok megadása után kiadjuk a p=\(\mathrm {polyfit}(T,F,3)\) parancsot, melynek eredményeként a \(p=\left [-2,-\frac {1}{2},\frac {4}{3},-\frac {4}{5}\right ]\) vektort kapjuk. Ekkor a következő állítások igazak: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-2x^3-\frac {1}{2}x^2+\frac {4}{3}x-\frac {4}{5}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legfeljebb 4 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-\frac {4}{5}x^3+\frac {4}{3}x^2-\frac {1}{2}x-2\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F pontosan 3 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legalább 4 elemű vektorok</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit2</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Konkrét T és F vektorok megadása után kiadjuk a p=\(\mathrm {polyfit}(T,F,4)\) parancsot, melynek eredményeként a \(p=\left [\frac {3}{2},3,\frac {4}{5},-\frac {4}{5},\frac {2}{5}\right ]\) vektort kapjuk. Ekkor a következő állítások igazak: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(\frac {3}{2}x^4+3x^3+\frac {4}{5}x^2-\frac {4}{5}x+\frac {2}{5}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legfeljebb 5 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(\frac {2}{5}x^4-\frac {4}{5}x^3+\frac {4}{5}x^2+3x+\frac {3}{2}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F pontosan 4 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legalább 5 elemű vektorok</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit2</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Konkrét T és F vektorok megadása után kiadjuk a p=\(\mathrm {polyfit}(T,F,2)\) parancsot, melynek eredményeként a \(p=\left [-\frac {1}{5},-\frac {2}{3},2\right ]\) vektort kapjuk. Ekkor a következő állítások igazak: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-\frac {1}{5}x^2-\frac {2}{3}x+2\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legfeljebb 3 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(2x^2-\frac {2}{3}x-\frac {1}{5}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F pontosan 2 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legalább 3 elemű vektorok</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit2</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Konkrét T és F vektorok megadása után kiadjuk a p=\(\mathrm {polyfit}(T,F,4)\) parancsot, melynek eredményeként a \(p=\left [-\frac {4}{5},\frac {1}{2},-\frac {2}{3},1,\frac {4}{3}\right ]\) vektort kapjuk. Ekkor a következő állítások igazak: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-\frac {4}{5}x^4+\frac {1}{2}x^3-\frac {2}{3}x^2+x+\frac {4}{3}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legfeljebb 5 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(\frac {4}{3}x^4+x^3-\frac {2}{3}x^2+\frac {1}{2}x-\frac {4}{5}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F pontosan 4 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legalább 5 elemű vektorok</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit2</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Konkrét T és F vektorok megadása után kiadjuk a p=\(\mathrm {polyfit}(T,F,2)\) parancsot, melynek eredményeként a \(p=\left [3,1,-3\right ]\) vektort kapjuk. Ekkor a következő állítások igazak: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(3x^2+x-3\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legfeljebb 3 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-3x^2+x+3\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F pontosan 2 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legalább 3 elemű vektorok</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit2</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Konkrét T és F vektorok megadása után kiadjuk a p=\(\mathrm {polyfit}(T,F,4)\) parancsot, melynek eredményeként a \(p=\left [\frac {4}{5},\frac {1}{2},-2,-\frac {1}{2},-\frac {4}{5}\right ]\) vektort kapjuk. Ekkor a következő állítások igazak: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(\frac {4}{5}x^4+\frac {1}{2}x^3-2x^2-\frac {1}{2}x-\frac {4}{5}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legfeljebb 5 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-\frac {4}{5}x^4-\frac {1}{2}x^3-2x^2+\frac {1}{2}x+\frac {4}{5}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F pontosan 4 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legalább 5 elemű vektorok</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit2</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Konkrét T és F vektorok megadása után kiadjuk a p=\(\mathrm {polyfit}(T,F,4)\) parancsot, melynek eredményeként a \(p=\left [\frac {2}{3},-\frac {1}{5},-1,-2,-4\right ]\) vektort kapjuk. Ekkor a következő állítások igazak: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(\frac {2}{3}x^4-\frac {1}{5}x^3-x^2-2x-4\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legfeljebb 5 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-4x^4-2x^3-x^2-\frac {1}{5}x+\frac {2}{3}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F pontosan 4 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legalább 5 elemű vektorok</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit2</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Konkrét T és F vektorok megadása után kiadjuk a p=\(\mathrm {polyfit}(T,F,3)\) parancsot, melynek eredményeként a \(p=\left [2,\frac {2}{3},\frac {1}{2},\frac {3}{5}\right ]\) vektort kapjuk. Ekkor a következő állítások igazak: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(2x^3+\frac {2}{3}x^2+\frac {1}{2}x+\frac {3}{5}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legfeljebb 4 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(\frac {3}{5}x^3+\frac {1}{2}x^2+\frac {2}{3}x+2\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F pontosan 3 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legalább 4 elemű vektorok</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit2</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Konkrét T és F vektorok megadása után kiadjuk a p=\(\mathrm {polyfit}(T,F,3)\) parancsot, melynek eredményeként a \(p=\left [-\frac {4}{3},-2,-1,-\frac {3}{5}\right ]\) vektort kapjuk. Ekkor a következő állítások igazak: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-\frac {4}{3}x^3-2x^2-x-\frac {3}{5}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legfeljebb 4 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-\frac {3}{5}x^3-x^2-2x-\frac {4}{3}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F pontosan 3 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legalább 4 elemű vektorok</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit2</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Konkrét T és F vektorok megadása után kiadjuk a p=\(\mathrm {polyfit}(T,F,2)\) parancsot, melynek eredményeként a \(p=\left [-\frac {3}{5},-1,1\right ]\) vektort kapjuk. Ekkor a következő állítások igazak: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-\frac {3}{5}x^2-x+1\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legfeljebb 3 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(x^2-x-\frac {3}{5}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F pontosan 2 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legalább 3 elemű vektorok</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit2</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Konkrét T és F vektorok megadása után kiadjuk a p=\(\mathrm {polyfit}(T,F,2)\) parancsot, melynek eredményeként a \(p=\left [-\frac {3}{2},2,-\frac {4}{5}\right ]\) vektort kapjuk. Ekkor a következő állítások igazak: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-\frac {3}{2}x^2+2x-\frac {4}{5}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legfeljebb 3 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-\frac {4}{5}x^2+2x-\frac {3}{2}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F pontosan 2 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legalább 3 elemű vektorok</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit2</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Konkrét T és F vektorok megadása után kiadjuk a p=\(\mathrm {polyfit}(T,F,3)\) parancsot, melynek eredményeként a \(p=\left [-2,1,\frac {1}{2},-\frac {2}{3}\right ]\) vektort kapjuk. Ekkor a következő állítások igazak: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-2x^3+x^2+\frac {1}{2}x-\frac {2}{3}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legfeljebb 4 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-\frac {2}{3}x^3+\frac {1}{2}x^2+x-2\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F pontosan 3 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legalább 4 elemű vektorok</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit2</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Konkrét T és F vektorok megadása után kiadjuk a p=\(\mathrm {polyfit}(T,F,4)\) parancsot, melynek eredményeként a \(p=\left [-1,\frac {4}{5},1,2,\frac {2}{3}\right ]\) vektort kapjuk. Ekkor a következő állítások igazak: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-x^4+\frac {4}{5}x^3+x^2+2x+\frac {2}{3}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legfeljebb 5 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(\frac {2}{3}x^4+2x^3+x^2+\frac {4}{5}x-1\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F pontosan 4 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legalább 5 elemű vektorok</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit2</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Konkrét T és F vektorok megadása után kiadjuk a p=\(\mathrm {polyfit}(T,F,2)\) parancsot, melynek eredményeként a \(p=\left [\frac {4}{3},\frac {3}{2},-2\right ]\) vektort kapjuk. Ekkor a következő állítások igazak: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(\frac {4}{3}x^2+\frac {3}{2}x-2\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legfeljebb 3 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-2x^2+\frac {3}{2}x+\frac {4}{3}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F pontosan 2 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legalább 3 elemű vektorok</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit2</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Konkrét T és F vektorok megadása után kiadjuk a p=\(\mathrm {polyfit}(T,F,3)\) parancsot, melynek eredményeként a \(p=\left [\frac {3}{5},-1,\frac {2}{5},-2\right ]\) vektort kapjuk. Ekkor a következő állítások igazak: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(\frac {3}{5}x^3-x^2+\frac {2}{5}x-2\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legfeljebb 4 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-2x^3+\frac {2}{5}x^2-x+\frac {3}{5}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F pontosan 3 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legalább 4 elemű vektorok</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit2</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Konkrét T és F vektorok megadása után kiadjuk a p=\(\mathrm {polyfit}(T,F,3)\) parancsot, melynek eredményeként a \(p=\left [-2,1,-2,\frac {3}{2}\right ]\) vektort kapjuk. Ekkor a következő állítások igazak: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-2x^3+x^2-2x+\frac {3}{2}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legfeljebb 4 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(\frac {3}{2}x^3-2x^2+x-2\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F pontosan 3 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legalább 4 elemű vektorok</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit2</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Konkrét T és F vektorok megadása után kiadjuk a p=\(\mathrm {polyfit}(T,F,2)\) parancsot, melynek eredményeként a \(p=\left [3,2,4\right ]\) vektort kapjuk. Ekkor a következő állítások igazak: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(3x^2+2x+4\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legfeljebb 3 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(4x^2+2x+3\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F pontosan 2 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legalább 3 elemű vektorok</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit2</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Konkrét T és F vektorok megadása után kiadjuk a p=\(\mathrm {polyfit}(T,F,2)\) parancsot, melynek eredményeként a \(p=\left [-\frac {3}{5},1,-4\right ]\) vektort kapjuk. Ekkor a következő állítások igazak: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-\frac {3}{5}x^2+x-4\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legfeljebb 3 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-4x^2+x-\frac {3}{5}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F pontosan 2 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legalább 3 elemű vektorok</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit2</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Konkrét T és F vektorok megadása után kiadjuk a p=\(\mathrm {polyfit}(T,F,4)\) parancsot, melynek eredményeként a \(p=\left [-3,-\frac {3}{2},\frac {1}{3},-2,-\frac {4}{5}\right ]\) vektort kapjuk. Ekkor a következő állítások igazak: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-3x^4-\frac {3}{2}x^3+\frac {1}{3}x^2-2x-\frac {4}{5}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legfeljebb 5 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-\frac {4}{5}x^4-2x^3+\frac {1}{3}x^2-\frac {3}{2}x-3\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F pontosan 4 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legalább 5 elemű vektorok</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit2</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Konkrét T és F vektorok megadása után kiadjuk a p=\(\mathrm {polyfit}(T,F,4)\) parancsot, melynek eredményeként a \(p=\left [\frac {2}{5},-\frac {3}{5},-\frac {1}{5},\frac {3}{2},1\right ]\) vektort kapjuk. Ekkor a következő állítások igazak: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(\frac {2}{5}x^4-\frac {3}{5}x^3-\frac {1}{5}x^2+\frac {3}{2}x+1\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legfeljebb 5 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(x^4+\frac {3}{2}x^3-\frac {1}{5}x^2-\frac {3}{5}x+\frac {2}{5}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F pontosan 4 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legalább 5 elemű vektorok</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit2</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Konkrét T és F vektorok megadása után kiadjuk a p=\(\mathrm {polyfit}(T,F,4)\) parancsot, melynek eredményeként a \(p=\left [-\frac {1}{2},\frac {2}{5},\frac {4}{5},-\frac {1}{5},\frac {3}{2}\right ]\) vektort kapjuk. Ekkor a következő állítások igazak: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-\frac {1}{2}x^4+\frac {2}{5}x^3+\frac {4}{5}x^2-\frac {1}{5}x+\frac {3}{2}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legfeljebb 5 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(\frac {3}{2}x^4-\frac {1}{5}x^3+\frac {4}{5}x^2+\frac {2}{5}x-\frac {1}{2}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F pontosan 4 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legalább 5 elemű vektorok</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit2</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Konkrét T és F vektorok megadása után kiadjuk a p=\(\mathrm {polyfit}(T,F,2)\) parancsot, melynek eredményeként a \(p=\left [-1,1,\frac {1}{2}\right ]\) vektort kapjuk. Ekkor a következő állítások igazak: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-x^2+x+\frac {1}{2}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legfeljebb 3 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(\frac {1}{2}x^2+x-1\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F pontosan 2 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legalább 3 elemű vektorok</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit2</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Konkrét T és F vektorok megadása után kiadjuk a p=\(\mathrm {polyfit}(T,F,3)\) parancsot, melynek eredményeként a \(p=\left [2,1,-2,\frac {4}{3}\right ]\) vektort kapjuk. Ekkor a következő állítások igazak: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(2x^3+x^2-2x+\frac {4}{3}\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legfeljebb 4 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(\frac {4}{3}x^3-2x^2+x+2\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F pontosan 3 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legalább 4 elemű vektorok</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>polyfit2</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Konkrét T és F vektorok megadása után kiadjuk a p=\(\mathrm {polyfit}(T,F,3)\) parancsot, melynek eredményeként a \(p=\left [4,\frac {4}{5},-3,-2\right ]\) vektort kapjuk. Ekkor a következő állítások igazak: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>false</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(4x^3+\frac {4}{5}x^2-3x-2\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legfeljebb 4 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>az illesztett polinom:\(-2x^3-3x^2+\frac {4}{5}x+4\)</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F pontosan 3 elemű vektorok</p>]]></text>
+  </answer>
+  <answer fraction="-100.0" format="html">
+    <text><![CDATA[<p>T és F legalább 4 elemű vektorok</p>]]></text>
+  </answer>
+</question>
+ 
+</quiz>
