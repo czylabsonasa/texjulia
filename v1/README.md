@@ -1,5 +1,4 @@
 #### moodle tesztek generalasa juliaval
-* ez az ujabb verzio
 * menjunk bele a MULTI konyvtarba
 * inditsuk el a julia-t
 * include("MULTI.jl")
