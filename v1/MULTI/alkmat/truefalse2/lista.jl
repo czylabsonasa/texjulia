@@ -1,6 +1,6 @@
 haromszog=[
   IG=(
-    "Egy derékszögű háromszög két befogójának összege nagyobb mint az átfogóval.",
+    "Egy derékszögű háromszög két befogójának összege nagyobb mint az átfogója.",
     "Minden szabályos háromszög egyenlőszárú.",
 
   ),
