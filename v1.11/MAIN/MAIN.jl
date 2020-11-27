@@ -32,9 +32,10 @@ function MAIN(what,moutname)
 
     # shell
     latexit="xelatex"
+    arg0="-shell-escape"
     arg1= "-output-directory=$(outdir)" 
     arg2="$(outname)"
-    run(`$(latexit) $(arg1) $(arg2)`)
+    run(`$(latexit) $(arg0) $(arg1) $(arg2)`)
   end
 
 
