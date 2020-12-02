@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+ 
+<question type="category">
+  <category>
+    <text>nincs/nincs</text>
+  </category>
+</question>
+ 
+<question type="multichoice">
+  <name>
+    <text>rendszer</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Az \( {\cal F}=\left [ a=2, k_{-}=-3, k_{+}=3, t=4 \right ] \) rendszerben az \( \begin {array}{ccc}M_{\infty }& 1_{+}& \varepsilon _{1}\end {array} \) mennyiségek rendre: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( \begin {array}{ccc}\frac {15}{2}& \frac {9}{8}& \frac {1}{8}\end {array} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \begin {array}{ccc}\frac {15}{2}& \frac {9}{16}& \frac {1}{16}\end {array} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \begin {array}{ccc}\frac {15}{4}& \frac {9}{4}& \frac {1}{8}\end {array} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \begin {array}{ccc}\frac {15}{2}& \frac {9}{16}& \frac {1}{4}\end {array} \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>rendszer</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Az \( {\cal F}=\left [ a=2, k_{-}=-4, k_{+}=3, t=4 \right ] \) rendszerben az \( \begin {array}{ccc}1_{+}& 1_{-}& \varepsilon _{0}\end {array} \) mennyiségek rendre: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( \begin {array}{ccc}\frac {9}{8}& \frac {15}{16}& \frac {1}{32}\end {array} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \begin {array}{ccc}\frac {9}{8}& \frac {15}{32}& \frac {1}{64}\end {array} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \begin {array}{ccc}\frac {9}{16}& \frac {15}{8}& \frac {1}{32}\end {array} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \begin {array}{ccc}\frac {9}{8}& \frac {15}{32}& \frac {1}{16}\end {array} \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>rendszer</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Az \( {\cal F}=\left [ a=2, k_{-}=-4, k_{+}=4, t=4 \right ] \) rendszerben az \( \begin {array}{ccc}1_{-}& \varepsilon _{0}& M_{\infty }\end {array} \) mennyiségek rendre: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( \begin {array}{ccc}\frac {15}{16}& \frac {1}{32}& 15\end {array} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \begin {array}{ccc}\frac {15}{16}& \frac {1}{64}& \frac {15}{2}\end {array} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \begin {array}{ccc}\frac {15}{32}& \frac {1}{16}& 15\end {array} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \begin {array}{ccc}\frac {15}{16}& \frac {1}{64}& 30\end {array} \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>rendszer</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Az \( {\cal F}=\left [ a=3, k_{-}=-3, k_{+}=3, t=4 \right ] \) rendszerben az \( \begin {array}{ccc}1_{+}& 1_{-}& \varepsilon _{1}\end {array} \) mennyiségek rendre: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( \begin {array}{ccc}\frac {28}{27}& \frac {80}{81}& \frac {1}{27}\end {array} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \begin {array}{ccc}\frac {28}{27}& \frac {80}{243}& \frac {1}{81}\end {array} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \begin {array}{ccc}\frac {28}{81}& \frac {80}{27}& \frac {1}{27}\end {array} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \begin {array}{ccc}\frac {28}{27}& \frac {80}{243}& \frac {1}{9}\end {array} \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>rendszer</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Az \( {\cal F}=\left [ a=3, k_{-}=-4, k_{+}=3, t=4 \right ] \) rendszerben az \( \begin {array}{ccc}1_{-}& 1_{+}& \varepsilon _{0}\end {array} \) mennyiségek rendre: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( \begin {array}{ccc}\frac {80}{81}& \frac {28}{27}& \frac {1}{243}\end {array} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \begin {array}{ccc}\frac {80}{81}& \frac {28}{81}& \frac {1}{729}\end {array} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \begin {array}{ccc}\frac {80}{243}& \frac {28}{9}& \frac {1}{243}\end {array} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \begin {array}{ccc}\frac {80}{81}& \frac {28}{81}& \frac {1}{81}\end {array} \)</p>]]></text>
+  </answer>
+</question>
+<question type="multichoice">
+  <name>
+    <text>rendszer</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Az \( {\cal F}=\left [ a=3, k_{-}=-4, k_{+}=4, t=4 \right ] \) rendszerben az \( \begin {array}{ccc}1_{+}& 1_{-}& \varepsilon _{0}\end {array} \) mennyiségek rendre: </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <single>true</single>
+  <shuffleanswers>1</shuffleanswers>
+  <answernumbering>abc</answernumbering>
+  <answer fraction="100" format="html">
+    <text><![CDATA[<p>\( \begin {array}{ccc}\frac {28}{27}& \frac {80}{81}& \frac {1}{243}\end {array} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \begin {array}{ccc}\frac {28}{27}& \frac {80}{243}& \frac {1}{729}\end {array} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \begin {array}{ccc}\frac {28}{81}& \frac {80}{27}& \frac {1}{243}\end {array} \)</p>]]></text>
+  </answer>
+  <answer fraction="0" format="html">
+    <text><![CDATA[<p>\( \begin {array}{ccc}\frac {28}{27}& \frac {80}{243}& \frac {1}{81}\end {array} \)</p>]]></text>
+  </answer>
+</question>
+ 
+</quiz>
+

@@ -1,5 +1,5 @@
 #!/bin/bash
 git pull
 git add --all
-git commit -m "progress"
+git commit -m "példa nem-random generálásra"
 git push origin master
